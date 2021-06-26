@@ -1,0 +1,227 @@
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: Could not connect to the server. (127.0.0.1, line 0)
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (all posts, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (following, line 0)
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (following, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (following, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (following, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Failed to load resource: the server responded with a status of 400 (Bad Request) (all posts, line 0)
+[Error] Unhandled Promise Rejection: TypeError: posts.forEach is not a function. (In 'posts.forEach(post => {
+            show_post(post)
+        })', 'posts.forEach' is undefined)
+	(anonymous function) (post.js:37)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (profile, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (profile, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (profile, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Failed to load resource: the server responded with a status of 500 (Internal Server Error) (profile, line 0)
+[Error] Unhandled Promise Rejection: SyntaxError: The string did not match the expected pattern.
+	(anonymous function) (post.js:35)
+	promiseReactionJob
+[Error] Unhandled Promise Rejection: TypeError: cancelled
+	(anonymous function)
+	promiseReactionJob
+> fetch(`/post/profile`)
+    .then(response => response.json())
+    .then(posts => {
+        posts.forEach(post => {
+            show_post(post)
+        });
+    });
+< Promise = $1
+
+result: undefined
+
+status: "resolved"
+
+Promise Prototype
+
+< Promise {status: "pending"}
+> fetch(`/post/profile`)
+    .then(response => response.json())
+    .then(console.log()
+    );
+< Promise = $3
+
+result: [] (0)
+
+status: "resolved"
+
+Promise Prototype
